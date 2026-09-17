@@ -1,0 +1,11 @@
+{
+  "pet_name": "Mochi",
+  "pet_color": "classical",
+  "pet_color_random": false,
+  "mood_neutral_at": 50,
+  "mood_happy_at": 100,
+  "mood_excited_at": 200,
+  "sprite_size": 100,
+  "show_during_review": true,
+  "show_mood_bar": true
+}
