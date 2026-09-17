@@ -48,6 +48,12 @@ A really simple, tiny pixel-art cat that lives on your Anki deck browser and rea
 **From AnkiWeb:** *[Anki Shared Addons](https://ankiweb.net/shared/info/94808647)* <br>
 **Code:** `94808647`
 
+---
+
+☕ *If this addon helped you, [buy me a coffee](https://buymeacoffee.com/kucha)* 😃
+
+---
+
 ## Configuration
 
 Open **Tools → Cat Study Buddy Settings…** for a checkbox/dropdown UI, or edit the config directly via **Tools → Add-ons → Config**:
@@ -67,3 +73,11 @@ Open **Tools → Cat Study Buddy Settings…** for a checkbox/dropdown UI, or ed
 ## License
 
 MIT - see [LICENSE](LICENSE).
+
+---
+
+<div align="center">
+
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kucha)
+
+</div>
