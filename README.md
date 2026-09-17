@@ -35,10 +35,11 @@ A really simple, tiny pixel-art cat that lives on your Anki deck browser and rea
 ![Cat eating](screenshots/cat-eating.jpg)
 
 **Mini cat during review** - Idles between cards and reacts to your answer:
+  > You can deactivate it if you want
 
 ![Mini cat during review](screenshots/mini-cat-during-review.jpg)
 
-**Settings dialog** - No manual config editing required:
+**Settings dialog:**
 
 ![Settings dialog](screenshots/settings-dialog.jpg)
 
