@@ -1,6 +1,7 @@
 # 🐱︎ Cat Study Buddy ᗢᘏᓗ
+*By Icaro Kuchanovicz*
 
-A really simple, tiny pixel-art cat that lives on your Anki deck browser and reacts to how much you study, purely on today's card count. Inspired by the light-touch motivation of Review Heatmap: no sounds, no popups, no rewards to manage, just a small sprite quietly nudging you to keep going.
+A really simple, tiny pixel-art cat that lives on your Anki deck browser and reacts to how much you study, purely on today's card count. In my opinion just like the light motivation of Review Heatmap: no sounds, no popups, no rewards to manage, just a small sprite quietly nudging you to keep going.
 
 ## Features
 
@@ -21,9 +22,13 @@ A really simple, tiny pixel-art cat that lives on your Anki deck browser and rea
 
 **Mood climbs through 5 stages based on today's card count** - Empty, Sad, Neutral, Happy, Excited, each with its own color and animation set:
 
-| Sad | Neutral | Happy | Excited |
-|---|---|---|---|
-| ![Sad](screenshots/mood-sad.jpg) | ![Neutral](screenshots/mood-neutral.jpg) | ![Happy](screenshots/mood-happy.jpg) | ![Excited](screenshots/mood-excited.jpg) |
+| Sad | Neutral |
+|---|---|
+| ![Sad](screenshots/mood-sad.jpg) | ![Neutral](screenshots/mood-neutral.jpg) |
+
+| Happy | Excited |
+|---|---|
+| ![Happy](screenshots/mood-happy.jpg) | ![Excited](screenshots/mood-excited.jpg) |
 
 **Random action animations** - Once Happy, the cat also plays extra idle actions like eating, napping in a box, or a bath:
 
