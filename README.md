@@ -1,13 +1,13 @@
 # 🐱︎ Cat Study Buddy ᗢᘏᓗ
 
-A really simple, tiny pixel-art cat that lives on your Anki deck browser and reacts to how much you study — purely on today's card count. Inspired by the light-touch motivation of Review Heatmap: no sounds, no popups, no rewards to manage, just a small sprite quietly nudging you to keep going.
+A really simple, tiny pixel-art cat that lives on your Anki deck browser and reacts to how much you study, purely on today's card count. Inspired by the light-touch motivation of Review Heatmap: no sounds, no popups, no rewards to manage, just a small sprite quietly nudging you to keep going.
 
 ## Features
 
 - **5-stage mood ladder:** Empty → Sad → Neutral → Happy → Excited, based purely on today's card count, resetting every day. Each mood has its own color and animation set (Empty even plays "sick"/"dead" poses).
 - **Mood shown as a colored progress bar** toward the next stage.
 - **Mini cat during review:** sits in the corner, idle between cards, with a happy pose when you get a card right and a rougher pose on Again.
-- **Pick a name and color:** `classical` (cream), `orange`, `grey`, or `white` — or let the color re-roll randomly every time Anki starts.
+- **Pick a name and color:** `classical` (cream), `orange`, `grey`, or `white`, or let the color re-roll randomly every time Anki starts.
 - **Adjustable sprite size** and your own thresholds for each mood change.
 - **Reset-to-default** on every numeric setting.
 - A native settings dialog through "**Tools → 🐱︎ Cat Study Buddy ᗢᘏᓗ Settings…**" (no manual JSON editing needed)
